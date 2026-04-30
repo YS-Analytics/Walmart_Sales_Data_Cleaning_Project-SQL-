@@ -2,7 +2,7 @@ SELECT * FROM walmart_db.walmart;
 
 
 -- DROP TABLE walmart_db.walmart;
-DROP TABLE walmart_db.walmar;
+DROP TABLE walmart_db.walmart;
 
 
 --
